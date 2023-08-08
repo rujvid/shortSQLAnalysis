@@ -1,0 +1,2 @@
+# shortSQLAnalysis
+Short sql projects 
